@@ -1,6 +1,6 @@
 # XfPanel
-![Stars](https://img.shields.io/github/stars/XfPanel/XfPanel?labelColor=58A6FF&logo=github)
-![Forks](https://img.shields.io/github/forks/XfPanel/XfPanel?labelColor=58A6FF&logo=github)
+![Stars](https://img.shields.io/github/stars/HerobrineXiaofeng/XfPanel?labelColor=58A6FF&logo=github)
+![Forks](https://img.shields.io/github/forks/HerobrineXiaofeng/XfPanel?labelColor=58A6FF&logo=github)
 
 目前 XfPanel 测试安装中
 ## 一键安装 (稳定版)
