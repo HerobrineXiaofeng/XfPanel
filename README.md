@@ -12,7 +12,7 @@ if command -v curl &>/dev/null;then bash <(curl -fsSL https://get.xfpanel.cn);el
 if command -v curl &>/dev/null;then bash <(curl -fsSL https://get.xfpanel.cn) --beta;else bash <(wget -qO- https://get.xfpanel.cn) --beta;fi
 ```
 ## 随时间变化的星标数
-[![Stargazers over time](https://starchart.cc/XfPanel/XfPanel.svg?variant=adaptive)](https://starchart.cc/XfPanel/XfPanel)
+[![Stargazers over time](https://starchart.cc/HerobrineXiaofeng/XfPanel.svg?variant=adaptive)](https://starchart.cc/HerobrineXiaofeng/XfPanel)
 
 ---
 
