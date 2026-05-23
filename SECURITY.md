@@ -14,7 +14,7 @@ Please **do not report security vulnerabilities through public Issues, Discussio
 
 ### Report Channel
 1. Preferred: Private security report channel of the platform repository
-2. Email: support@xfpanel.cn
+2. Email: support@xfpanel.com
 
 Please include detailed information:
 - Vulnerability description and impact scope
