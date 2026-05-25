@@ -15,11 +15,15 @@ bash <(curl -fsSL https://dl.xfpanel.com/xfpanel/package/v1/install.sh) --dev
 [![Stargazers over time](https://starchart.cc/HerobrineXiaofeng/XfPanel.svg?variant=adaptive)](https://starchart.cc/HerobrineXiaofeng/XfPanel)
 
 ---
+## Community & Support
 
-## ⚖️ 开源协议 (License)
+- **Docs** — [1panel.pro/docs](https://xfpanel.com/docs)
+- **Issues** — [GitHub Issues](https://github.com/HerobrineXiaofeng/XfPanel/issues) for bug reports
 
-本项目采用 **GPL-3.0 license** 协议开源。
+## Security
 
-详情请参阅 [LICENSE](./LICENSE) 文件。
+Found a vulnerability? Please read [SECURITY.md](/SECURITY.md) before disclosing.
 
-**Copyright © 2026 HerobrineXiaofeng**
+## License
+
+Licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html), see [LICENSE](./LICENSE) for full details.
