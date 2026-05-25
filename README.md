@@ -18,7 +18,7 @@ bash <(curl -fsSL https://dl.xfpanel.com/xfpanel/package/v1/install.sh) --dev
 
 ## ⚖️ 开源协议 (License)
 
-本项目采用 **GPL-3.0 license** 协议开源。你可以自由地使用、修改和分发本软件，但必须在修改后的软件中包含原始的版权声明和许可声明。
+本项目采用 **GPL-3.0 license** 协议开源。
 
 详情请参阅 [LICENSE](./LICENSE) 文件。
 
