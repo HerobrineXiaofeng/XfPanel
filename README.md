@@ -3,13 +3,13 @@
 ![Forks](https://img.shields.io/github/forks/HerobrineXiaofeng/XfPanel?labelColor=58A6FF&logo=github)
 
 目前 XfPanel 测试安装中
-## 一键安装 (稳定版)
+## 一键安装 (正式版)
 ```bash
-if command -v curl &>/dev/null;then bash <(curl -fsSL https://get.xfpanel.cn);else bash <(wget -qO- https://get.xfpanel.cn);fi
+bash <(curl -fsSL https://dl.xfpanel.com/xfpanel/package/v1/install.sh)
 ```
-## 一键安装 (beta版)
+## 一键安装 (dev版)
 ```bash
-if command -v curl &>/dev/null;then bash <(curl -fsSL https://get.xfpanel.cn) --beta;else bash <(wget -qO- https://get.xfpanel.cn) --beta;fi
+bash <(curl -fsSL https://dl.xfpanel.com/xfpanel/package/v1/install.sh) --dev
 ```
 ## 随时间变化的星标数
 [![Stargazers over time](https://starchart.cc/HerobrineXiaofeng/XfPanel.svg?variant=adaptive)](https://starchart.cc/HerobrineXiaofeng/XfPanel)
