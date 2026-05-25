@@ -6,8 +6,8 @@ Please upgrade to a supported version to receive security fixes.
 
 | Version | Security Support |
 | ------- | ---------------- |
-| Latest  | ✅ Supported      |
-| Legacy  | ❌ Not Supported |
+| v1.x  | ✅ Supported      |
+| old  | ❌ Not Supported |
 
 ## Reporting a Vulnerability
 Please **do not report security vulnerabilities through public Issues, Discussions or Comments**.
