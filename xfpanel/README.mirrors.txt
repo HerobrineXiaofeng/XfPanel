@@ -1,0 +1,1 @@
+The list of XfPanel mirror sites is available here: https://xfpanel.com/mirror/list
