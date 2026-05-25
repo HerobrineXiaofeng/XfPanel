@@ -6,6 +6,12 @@
   <a href="https://github.com/HerobrineXiaofeng/XfPanel"><img src="https://img.shields.io/github/stars/HerobrineXiaofeng/XfPanel?color=%231890FF&style=flat-square" alt="Stars"></a>
 </p>
 
+<p align="center">
+  <a href="/README.md"><img alt="English" src="https://img.shields.io/badge/English-d9d9d9"></a>
+  <a href="/docs/README.zh-Hans.md"><img alt="简体中文" src="https://img.shields.io/badge/简体中文-d9d9d9"></a>
+  <a href="/docs/README.zh-Hant.md"><img alt="繁體中文" src="https://img.shields.io/badge/繁體中文-d9d9d9"></a>
+</p>
+
 XfPanel is currently being tested and installed.
 ## Quick Start
 ```bash
