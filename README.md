@@ -1,17 +1,10 @@
 # XfPanel
-![Stars](https://img.shields.io/github/stars/HerobrineXiaofeng/XfPanel?labelColor=58A6FF&logo=github)
-![Forks](https://img.shields.io/github/forks/HerobrineXiaofeng/XfPanel?labelColor=58A6FF&logo=github)
-
-目前 XfPanel 测试安装中
-## 一键安装 (正式版)
+XfPanel is currently being tested and installed.
+## Quick Start
 ```bash
 bash <(curl -fsSL https://dl.xfpanel.com/xfpanel/package/v1/install.sh)
 ```
-## 一键安装 (dev版)
-```bash
-bash <(curl -fsSL https://dl.xfpanel.com/xfpanel/package/v1/install.sh) --dev
-```
-## 随时间变化的星标数
+## Stargazers over time
 [![Stargazers over time](https://starchart.cc/HerobrineXiaofeng/XfPanel.svg?variant=adaptive)](https://starchart.cc/HerobrineXiaofeng/XfPanel)
 
 ---
