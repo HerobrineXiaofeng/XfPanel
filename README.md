@@ -4,8 +4,15 @@ XfPanel is currently being tested and installed.
 ```bash
 bash <(curl -fsSL https://dl.xfpanel.com/xfpanel/package/v1/install.sh)
 ```
-## Stargazers over time
-[![Stargazers over time](https://starchart.cc/HerobrineXiaofeng/XfPanel.svg?variant=adaptive)](https://starchart.cc/HerobrineXiaofeng/XfPanel)
+## Star History
+
+<a href="https://www.star-history.com/?repos=HerobrineXiaofeng%2FXfPanel&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=HerobrineXiaofeng/XfPanel&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=HerobrineXiaofeng/XfPanel&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=HerobrineXiaofeng/XfPanel&type=date&legend=top-left" />
+ </picture>
+</a>
 
 ---
 ## Community & Support
