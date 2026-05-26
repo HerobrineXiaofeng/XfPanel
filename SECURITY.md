@@ -1,50 +1,31 @@
 # Security Policy
 
 ## Supported Versions
-We provide security updates only for the latest stable version.
 
-| Version Status | Supported |
-|----------------|-----------|
-| Latest | ✅ Yes |
-| Alpha / Beta / RC | ⚠️ Partial (unstable, self-use only) |
-| Old | ❌ No |
+We currently support the latest stable version with security updates.
+Users are strongly encouraged to keep their installations up-to-date.
 
+| Version | Supported          |
+| ------- | ------------------ |
+| v1.x | ✅ Yes |
+| Other | ❌ No |
 ## Reporting a Vulnerability
-All security bugs and vulnerabilities are accepted via **GitHub Issues** in this repository.
 
-### How to Report
-1. Open a new Issue: https://github.com/HerobrineXiaofeng/XfPanel/issues/new
-2. Use the **Bug Report** template
-3. Add label: `security`
-4. Include:
-   - Affected version
-   - Steps to reproduce
-   - Expected vs actual behavior
-   - Logs / screenshots (if available)
+We take security issues seriously and appreciate your efforts to responsibly disclose them.
 
-### Response Process
-- Acknowledge within **48 hours**
-- Triage and assess severity
-- Develop and test fixes
-- Release patched version
-- Close the issue after fix
+**Please do NOT report security vulnerabilities through public GitHub issues.**
 
-## Security Fix Priority
-- **Critical**: RCE, privilege escalation, auth bypass, data leak → urgent fix
-- **Medium/Low**: Minor flaws → routine update
-- No backports for legacy versions
+To report a security vulnerability, please use the **private reporting channel** provided by GitHub:
 
-## Out-of-Scope
-- User misconfiguration
-- Modified source code issues
-- Local physical access risks
-- Third-party dependency issues (report upstream)
+**Use the "Report a vulnerability" button in the "Security" tab of this repository.**
 
-## Responsible Disclosure
-- Allow maintainers reasonable time to fix before public disclosure
-- No malicious exploitation or unauthorized access
-- Follow community rules
+Specifically, you can report the issue directly via our repository's security advisory page:
+[https://github.com/HerobrineXiaofeng/XFPanel/security](https://github.com/HerobrineXiaofeng/XFPanel/security)
 
-## License
-This project is licensed under **GPLv3**.
-Code provided **AS-IS**, no warranty.
+This will create a private security advisory where we can discuss and address the issue without public exposure.
+
+Our team will acknowledge receipt of your report within 48 hours. We will then work with you to understand, validate, and resolve the issue as quickly as possible.
+
+Once a fix is ready, we will release a patch and publicly disclose the vulnerability with appropriate credit (unless you prefer to remain anonymous).
+
+Thank you for helping keep the XFPanel project safe and secure.
