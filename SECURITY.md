@@ -13,7 +13,7 @@ We provide security updates only for the latest stable version.
 All security bugs and vulnerabilities are accepted via **GitHub Issues** in this repository.
 
 ### How to Report
-1. Open a new Issue: https://github.com/your-name/your-repo/issues/new
+1. Open a new Issue: https://github.com/HerobrineXiaofeng/XfPanel/issues/new
 2. Use the **Bug Report** template
 3. Add label: `security`
 4. Include:
