@@ -3,11 +3,13 @@
     <img alt="xfpanel" src="https://xfpanel.com/xfpanel-logo.png">
   </picture>
 </p>
+
 <p align="center">
-  <a href="https://www.gnu.org/licenses/gpl-3.0.html"><img src="https://shields.io/github/license/1Panel-dev/1Panel?color=%231890FF" alt="License: GPL v3"></a>
-  <img alt="GitHub go.mod Go version" src="https://img.shields.io/github/go-mod/go-version/HerobrineXiaofeng/XfPanel">
-  <a href="https://github.com/HerobrineXiaofeng/XfPanel/releases"><img src="https://img.shields.io/github/v/release/HerobrineXiaofeng/XfPanel" alt="GitHub release"></a>
-  <a href="https://github.com/HerobrineXiaofeng/XfPanel"><img src="https://img.shields.io/github/stars/HerobrineXiaofeng/XfPanel?color=%231890FF&style=flat-square" alt="Stars"></a>
+  <a href="https://www.gnu.org/licenses/gpl-3.0.html"><img src="https://shields.io/github/license/HerobrineXiaofeng/XFPanel?color=%231890FF" alt="License: GPL v3"></a>
+  <a href="https://app.codacy.com/gh/HerobrineXiaofeng/XFPanel/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade"><img src="https://app.codacy.com/project/badge/Grade/5bc1acfc5a274a4d9485b877f018a811"/></a>
+  <a href="#"><img alt="GitHub go.mod Go version" src="https://img.shields.io/github/go-mod/go-version/HerobrineXiaofeng/XFPanel">
+  <a href="https://github.com/HerobrineXiaofeng/XFPanel/releases"><img src="https://img.shields.io/github/v/release/HerobrineXiaofeng/XFPanel" alt="GitHub release"></a>
+  <a href="https://github.com/HerobrineXiaofeng/XFPanel"><img src="https://img.shields.io/github/stars/HerobrineXiaofeng/XFPanel?color=%231890FF&style=flat-square" alt="Stars"></a>
 </p>
 
 <p align="center">
