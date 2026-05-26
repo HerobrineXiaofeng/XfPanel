@@ -47,4 +47,4 @@ Found a vulnerability? Please read [SECURITY.md](/SECURITY.md) before disclosing
 
 ## License
 
-Licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html), see [LICENSE](./LICENSE) for full details.
+Licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
