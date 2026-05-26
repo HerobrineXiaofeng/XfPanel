@@ -1,14 +1,57 @@
-# Security policy
+# Security Policy
 
-## Supported versions
+## Supported Versions
+We provide security patch support for the following project versions.
+All outdated versions are **unsupported and will not receive security updates**.
 
-| Version | Supported          |
-| ------- | ------------------ |
-| v1.x     | :white_check_mark: Supported |
-| v0.x     | :x: Not Supported |
+| Version Status | Supported |
+|----------------|-----------|
+| Latest | ✅ Yes |
+| Alpha / Beta / RC | ⚠️ Partial (unstable, self-use only) |
+| Old | ❌ No |
 
-## Reporting a vulnerability
+Only the **latest stable version** is guaranteed for security maintenance.
 
-We first appreciate and are very thankful that you've found a vulnerability issue in XfPanel! By disclosing such issue to XfPanel development team you are helping XfPanel to become a much more safer project than before! ;)
+## Reporting a Vulnerability
+**Do not open public issues for security vulnerabilities.**
 
-To protect the existing users of XfPanel, we kindly ask you to not disclose the vulnerability to anyone except the 1Panel development team before a fix has been rolled out. Send an email to support@xfpanel.com instead.
+If you find any security flaws, exploits, or potential risks in this project, please report privately via email:
+`support@xfpanel.com`
+
+### What to include in your report
+- Affected version and component
+- Clear reproduction steps
+- Vulnerability type and impact severity
+- Proof-of-concept (if available, optional)
+
+### Response Process
+- **48 hours initial reply** to confirm receipt
+- Vulnerability assessment and severity classification
+- Patch development, testing and release
+- Public disclosure after fix is deployed
+
+## Security Update Guidelines
+- Critical vulnerabilities (RCE, privilege escalation, authentication bypass, data leak) will be fixed urgently.
+- Medium/Low issues will be fixed in routine updates.
+- No backports for deprecated versions.
+
+## Out-of-Scope Issues
+The following are **not considered valid security vulnerabilities**:
+1. User-incorrect server/software configuration
+2. Vulnerabilities from outdated third-party systems or dependencies (fixed upstream)
+3. Local physical access risks under user’s own control
+4. Issues caused by manually modified source code
+
+## Responsible Disclosure
+We strictly follow responsible disclosure principles:
+- Allow maintainers reasonable time to fix vulnerabilities before public disclosure.
+- Malicious exploitation, unauthorized access or data abuse is strictly prohibited.
+
+## Dependency Maintenance
+This project continuously upgrades dependencies to resolve known CVE risks.
+Users are strongly recommended to always use the latest stable version.
+
+## License Disclaimer
+Project licensed under **GPLv3**.
+All code is provided **AS-IS** without warranty.
+Maintainer holds no liability for improper deployment or unauthorized modification risks.
