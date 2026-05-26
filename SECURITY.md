@@ -1,8 +1,7 @@
 # Security Policy
 
 ## Supported Versions
-We provide security patch support for the following project versions.
-All outdated versions are **unsupported and will not receive security updates**.
+We provide security updates only for the latest stable version.
 
 | Version Status | Supported |
 |----------------|-----------|
@@ -10,48 +9,42 @@ All outdated versions are **unsupported and will not receive security updates**.
 | Alpha / Beta / RC | ⚠️ Partial (unstable, self-use only) |
 | Old | ❌ No |
 
-Only the **latest stable version** is guaranteed for security maintenance.
-
 ## Reporting a Vulnerability
-**Do not open public issues for security vulnerabilities.**
+All security bugs and vulnerabilities are accepted via **GitHub Issues** in this repository.
 
-If you find any security flaws, exploits, or potential risks in this project, please report privately via email:
-`support@xfpanel.com`
-
-### What to include in your report
-- Affected version and component
-- Clear reproduction steps
-- Vulnerability type and impact severity
-- Proof-of-concept (if available, optional)
+### How to Report
+1. Open a new Issue: https://github.com/your-name/your-repo/issues/new
+2. Use the **Bug Report** template
+3. Add label: `security`
+4. Include:
+   - Affected version
+   - Steps to reproduce
+   - Expected vs actual behavior
+   - Logs / screenshots (if available)
 
 ### Response Process
-- **48 hours initial reply** to confirm receipt
-- Vulnerability assessment and severity classification
-- Patch development, testing and release
-- Public disclosure after fix is deployed
+- Acknowledge within **48 hours**
+- Triage and assess severity
+- Develop and test fixes
+- Release patched version
+- Close the issue after fix
 
-## Security Update Guidelines
-- Critical vulnerabilities (RCE, privilege escalation, authentication bypass, data leak) will be fixed urgently.
-- Medium/Low issues will be fixed in routine updates.
-- No backports for deprecated versions.
+## Security Fix Priority
+- **Critical**: RCE, privilege escalation, auth bypass, data leak → urgent fix
+- **Medium/Low**: Minor flaws → routine update
+- No backports for legacy versions
 
-## Out-of-Scope Issues
-The following are **not considered valid security vulnerabilities**:
-1. User-incorrect server/software configuration
-2. Vulnerabilities from outdated third-party systems or dependencies (fixed upstream)
-3. Local physical access risks under user’s own control
-4. Issues caused by manually modified source code
+## Out-of-Scope
+- User misconfiguration
+- Modified source code issues
+- Local physical access risks
+- Third-party dependency issues (report upstream)
 
 ## Responsible Disclosure
-We strictly follow responsible disclosure principles:
-- Allow maintainers reasonable time to fix vulnerabilities before public disclosure.
-- Malicious exploitation, unauthorized access or data abuse is strictly prohibited.
+- Allow maintainers reasonable time to fix before public disclosure
+- No malicious exploitation or unauthorized access
+- Follow community rules
 
-## Dependency Maintenance
-This project continuously upgrades dependencies to resolve known CVE risks.
-Users are strongly recommended to always use the latest stable version.
-
-## License Disclaimer
-Project licensed under **GPLv3**.
-All code is provided **AS-IS** without warranty.
-Maintainer holds no liability for improper deployment or unauthorized modification risks.
+## License
+This project is licensed under **GPLv3**.
+Code provided **AS-IS**, no warranty.
