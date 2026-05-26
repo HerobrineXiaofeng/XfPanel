@@ -1,7 +1,11 @@
-# XfPanel
-
+<p align="center">
+  <picture>
+    <img alt="xfpanel" src="https://xfpanel.com/xfpanel-logo.png">
+  </picture>
+</p>
 <p align="center">
   <a href="https://www.gnu.org/licenses/gpl-3.0.html"><img src="https://shields.io/github/license/1Panel-dev/1Panel?color=%231890FF" alt="License: GPL v3"></a>
+  <img alt="GitHub go.mod Go version" src="https://img.shields.io/github/go-mod/go-version/HerobrineXiaofeng/XfPanel">
   <a href="https://github.com/HerobrineXiaofeng/XfPanel/releases"><img src="https://img.shields.io/github/v/release/HerobrineXiaofeng/XfPanel" alt="GitHub release"></a>
   <a href="https://github.com/HerobrineXiaofeng/XfPanel"><img src="https://img.shields.io/github/stars/HerobrineXiaofeng/XfPanel?color=%231890FF&style=flat-square" alt="Stars"></a>
 </p>
