@@ -25,6 +25,10 @@ XfPanel目前正在进行测试和安装。
 ```
 bash <(curl -fsSL https://dl.xfpanel.com/xfpanel/v1/install.sh)
 ```
+or
+```
+bash <(wget -qO- https://dl.xfpanel.com/xfpanel/v1/install.sh)
+```
 ## Star 历史
 
 <a href="https://www.star-history.com/?repos=HerobrineXiaofeng%2FXfPanel&type=date&legend=top-left">
