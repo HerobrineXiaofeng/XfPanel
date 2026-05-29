@@ -43,7 +43,7 @@ bash <(wget -qO- https://dl.xfpanel.com/xfpanel/v1/install.sh)
 ## Community & Support
 
 - **Docs** — [xfpanel.com/docs](https://xfpanel.com/docs)
-- **Issues** — [GitHub Issues](https://github.com/HerobrineXiaofeng/XfPanel/issues) for bug reports
+- **Issues** — [GitHub Issues](https://github.com/XFPanel-dev/XFPanel/issues) for bug reports
 
 ## Security
 
