@@ -31,11 +31,11 @@ bash <(wget -qO- https://dl.xfpanel.com/xfpanel/v1/install.sh)
 ```
 ## Star History
 
-<a href="https://www.star-history.com/?repos=HerobrineXiaofeng%2FXfPanel&type=date&legend=top-left">
+<a href="https://www.star-history.com/?repos=XFPanel-dev%2FXFPanel&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=HerobrineXiaofeng/XfPanel&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=HerobrineXiaofeng/XfPanel&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=HerobrineXiaofeng/XfPanel&type=date&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=XFPanel-dev/XFPanel&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=XFPanel-dev/XFPanel&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=XFPanel-dev/XFPanel&type=date&legend=top-left" />
  </picture>
 </a>
 
