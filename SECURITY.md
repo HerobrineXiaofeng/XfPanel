@@ -20,7 +20,7 @@ To report a security vulnerability, please use the **private reporting channel**
 **Use the "Report a vulnerability" button in the "Security" tab of this repository.**
 
 Specifically, you can report the issue directly via our repository's security advisory page:
-[https://github.com/HerobrineXiaofeng/XFPanel/security](https://github.com/HerobrineXiaofeng/XFPanel/security)
+[https://github.com/XFPanel-dev/XFPanel/security](https://github.com/XFPanel-dev/XFPanel/security)
 
 This will create a private security advisory where we can discuss and address the issue without public exposure.
 
