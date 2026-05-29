@@ -1,0 +1,1 @@
+f0df840072a8400cafa9c7b35dd5b44ffec09b0c04e3c0eadd8d0711ebcf6b10 xfpanel-v1.0.0-alpha.1-linux-amd64.tar.gz
