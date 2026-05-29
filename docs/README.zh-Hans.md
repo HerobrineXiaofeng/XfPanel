@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.gnu.org/licenses/gpl-3.0.html"><img src="https://shields.io/github/license/HerobrineXiaofeng/XFPanel?color=%231890FF" alt="License: GPL v3"></a>
-  <a href="https://app.codacy.com/gh/HerobrineXiaofeng/XFPanel/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade"><img src="https://app.codacy.com/project/badge/Grade/5bc1acfc5a274a4d9485b877f018a811"/></a>
-  <a href="#"><img alt="GitHub go.mod Go version" src="https://img.shields.io/github/go-mod/go-version/HerobrineXiaofeng/XFPanel">
-  <a href="https://github.com/HerobrineXiaofeng/XFPanel/releases"><img src="https://img.shields.io/github/v/release/HerobrineXiaofeng/XFPanel" alt="GitHub release"></a>
-  <a href="https://github.com/HerobrineXiaofeng/XFPanel"><img src="https://img.shields.io/github/stars/HerobrineXiaofeng/XFPanel?color=%231890FF&style=flat-square" alt="Stars"></a>
+  <a href="https://www.gnu.org/licenses/gpl-3.0.html"><img src="https://shields.io/github/license/XFPanel-dev/XFPanel?color=%231890FF" alt="License: GPL v3"></a>
+  <a href="https://app.codacy.com/gh/XFPanel-dev/XFPanel/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade"><img src="https://app.codacy.com/project/badge/Grade/bc1ac55f84384e388ea18aaa68cece0d"/></a>
+  <a href="#"><img alt="GitHub go.mod Go version" src="https://img.shields.io/github/go-mod/go-version/XFPanel-dev/XFPanel">
+  <a href="https://github.com/XFPanel-dev/XFPanel/releases"><img src="https://img.shields.io/github/v/release/XFPanel-dev/XFPanel" alt="GitHub release"></a>
+  <a href="https://github.com/XFPanel-dev/XFPanel"><img src="https://img.shields.io/github/stars/XFPanel-dev/XFPanel?color=%231890FF&style=flat-square" alt="Stars"></a>
 </p>
 
 <p align="center">
@@ -31,11 +31,11 @@ bash <(wget -qO- https://dl.xfpanel.com/xfpanel/v1/install.sh)
 ```
 ## Star 历史
 
-<a href="https://www.star-history.com/?repos=HerobrineXiaofeng%2FXfPanel&type=date&legend=top-left">
+<a href="https://www.star-history.com/?repos=XFPanel-dev%2FXFPanel&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=HerobrineXiaofeng/XfPanel&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=HerobrineXiaofeng/XfPanel&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=HerobrineXiaofeng/XfPanel&type=date&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=XFPanel-dev/XFPanel&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=XFPanel-dev/XFPanel&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=XFPanel-dev/XFPanel&type=date&legend=top-left" />
  </picture>
 </a>
 
@@ -43,7 +43,7 @@ bash <(wget -qO- https://dl.xfpanel.com/xfpanel/v1/install.sh)
 ## 社区 & 支持
 
 - **文档** — [xfpanel.com/docs](https://xfpanel.com/docs)
-- **问题** — 用于提交错误报告的 [GitHub Issues](https://github.com/HerobrineXiaofeng/XfPanel/issues)
+- **问题** — 用于提交错误报告的 [GitHub Issues](https://github.com/XFPanel-dev/XFPanel/issues)
 
 ## 安全
 
